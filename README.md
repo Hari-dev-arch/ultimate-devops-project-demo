@@ -1,5 +1,15 @@
 **Note:** This project is a fork of `opentelemetry-demo`. Thanks to the team and contributors for opensourcing this wonderful demo project. Definitely one of the best on internet.
 
+# Ultimate DevOps Project Demo 🚀
+
+![Docker](https://img.shields.io/badge/Docker-ready-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-manifests-brightgreen)
+![License](https://img.shields.io/badge/License-Apache--2.0-blue)
+
+Hands-on practice with a microservices-based application instrumented with **OpenTelemetry**.  
+Includes **Docker Compose**, **Kubernetes manifests**, and observability via **Prometheus, Grafana, and Jaeger**.
+
+
 <!-- markdownlint-disable-next-line -->
 # <img src="https://opentelemetry.io/img/logos/opentelemetry-logo-nav.png" alt="OTel logo" width="45"> OpenTelemetry Demo
 
@@ -139,3 +149,6 @@ Emeritus:
 [Teletrace]: https://github.com/teletrace/opentelemetry-demo
 [Tracetest]: https://github.com/kubeshop/opentelemetry-demo
 [Uptrace]: https://github.com/uptrace/uptrace/tree/master/example/opentelemetry-demo
+
+> Based on the OpenTelemetry Demo. Original upstream: iam-veeramalla/ultimate-devops-project-demo (Apache-2.0).
+
